@@ -1,5 +1,5 @@
 {
-  "game": true,
+  "game": false,
   "gamemode": "Teams",
   "mod": "Graeme",
   "zombie": "lucas",
